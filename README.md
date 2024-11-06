@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with Newman, Yarn, ESM and JavaScript
+> Example of Allure Report usage with Newman, Yarn and ESM
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
